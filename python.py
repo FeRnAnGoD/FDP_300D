@@ -1,1 +1,2 @@
 print('Holiwis')
+print('Chao!')
